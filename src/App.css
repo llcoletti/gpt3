@@ -109,6 +109,10 @@ a {
   }
 
   .section__margin {
+<<<<<<< HEAD
     padding: 2rem 1rem;
+=======
+    margin: 2rem 1rem;
+>>>>>>> 719bff5c3e16f06a5b4ffadfc471aae93fa74b34
   }
 }
